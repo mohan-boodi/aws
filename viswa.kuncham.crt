@@ -1,0 +1,72 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 124 (0x7c)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=us, ST=ca, L=hyd, O=imom, OU=imom, CN=imom/name=imom/emailAddress=imom@imom.com
+        Validity
+            Not Before: Jun 16 08:48:20 2017 GMT
+            Not After : Jun 14 08:48:20 2027 GMT
+        Subject: C=US, ST=CA, L=SanFrancisco, O=Fort-Funston, OU=changeme, CN=viswa.kuncham/name=changeme/emailAddress=mail@host.domain
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:cd:e3:32:f0:1b:da:bd:59:96:60:52:14:bb:e6:
+                    17:d4:97:70:53:8b:43:1f:6f:da:ff:a9:a6:b9:43:
+                    7d:41:2f:f0:ca:7f:c5:c9:ac:cc:1b:15:93:2f:01:
+                    ea:22:ca:b9:50:61:6e:55:6f:c7:ef:d6:73:8f:e3:
+                    bf:e4:0b:6b:8c:71:79:d2:36:0b:f5:0e:c3:c6:06:
+                    c2:69:95:33:a4:c3:46:ca:fa:5b:af:a3:a1:68:78:
+                    d3:ac:6c:9e:19:58:77:cc:65:76:46:bc:45:50:19:
+                    b4:e4:a0:02:e2:86:2a:8e:bc:c7:24:ab:ad:bd:bc:
+                    94:5d:f6:a6:09:71:fe:8e:dd
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                F2:76:8F:F8:78:F3:2B:73:09:33:45:52:B2:6F:B5:B0:8D:AF:53:E8
+            X509v3 Authority Key Identifier: 
+                keyid:5B:01:29:EE:2E:04:8B:1C:BD:B1:3E:9B:4B:9D:84:09:24:FA:4D:8E
+                DirName:/C=us/ST=ca/L=hyd/O=imom/OU=imom/CN=imom/name=imom/emailAddress=imom@imom.com
+                serial:9C:D8:95:A9:D4:6E:AB:91
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+    Signature Algorithm: sha1WithRSAEncryption
+         d5:79:fe:a9:94:c9:5f:98:d7:1e:1d:de:2a:a0:73:1f:14:9b:
+         3d:c1:6e:c3:ab:5f:40:e2:ed:c6:9b:32:12:72:ca:bf:62:87:
+         b6:80:9b:8c:ca:42:8b:f1:24:56:cc:01:82:49:5a:6a:3c:d4:
+         01:e1:96:b5:91:60:e6:1a:e5:e7:cb:96:6f:66:61:f6:7d:89:
+         57:ac:1f:87:c8:47:18:3a:90:09:88:b2:66:0d:73:dc:55:cd:
+         ed:17:f5:ce:a6:7c:44:6f:fe:d2:c1:c6:23:df:6a:ae:2c:3d:
+         a0:c5:34:5b:e7:04:6c:80:80:b8:ec:41:e9:5d:95:ea:72:d0:
+         b8:f8
+-----BEGIN CERTIFICATE-----
+MIID3DCCA0WgAwIBAgIBfDANBgkqhkiG9w0BAQUFADCBgjELMAkGA1UEBhMCdXMx
+CzAJBgNVBAgTAmNhMQwwCgYDVQQHEwNoeWQxDTALBgNVBAoTBGltb20xDTALBgNV
+BAsTBGltb20xDTALBgNVBAMTBGltb20xDTALBgNVBCkTBGltb20xHDAaBgkqhkiG
+9w0BCQEWDWltb21AaW1vbS5jb20wHhcNMTcwNjE2MDg0ODIwWhcNMjcwNjE0MDg0
+ODIwWjCBpzELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRUwEwYDVQQHEwxTYW5G
+cmFuY2lzY28xFTATBgNVBAoTDEZvcnQtRnVuc3RvbjERMA8GA1UECxMIY2hhbmdl
+bWUxFjAUBgNVBAMTDXZpc3dhLmt1bmNoYW0xETAPBgNVBCkTCGNoYW5nZW1lMR8w
+HQYJKoZIhvcNAQkBFhBtYWlsQGhvc3QuZG9tYWluMIGfMA0GCSqGSIb3DQEBAQUA
+A4GNADCBiQKBgQDN4zLwG9q9WZZgUhS75hfUl3BTi0Mfb9r/qaa5Q31BL/DKf8XJ
+rMwbFZMvAeoiyrlQYW5Vb8fv1nOP47/kC2uMcXnSNgv1DsPGBsJplTOkw0bK+luv
+o6FoeNOsbJ4ZWHfMZXZGvEVQGbTkoALihiqOvMckq629vJRd9qYJcf6O3QIDAQAB
+o4IBOTCCATUwCQYDVR0TBAIwADAtBglghkgBhvhCAQ0EIBYeRWFzeS1SU0EgR2Vu
+ZXJhdGVkIENlcnRpZmljYXRlMB0GA1UdDgQWBBTydo/4ePMrcwkzRVKyb7Wwja9T
+6DCBtwYDVR0jBIGvMIGsgBRbASnuLgSLHL2xPptLnYQJJPpNjqGBiKSBhTCBgjEL
+MAkGA1UEBhMCdXMxCzAJBgNVBAgTAmNhMQwwCgYDVQQHEwNoeWQxDTALBgNVBAoT
+BGltb20xDTALBgNVBAsTBGltb20xDTALBgNVBAMTBGltb20xDTALBgNVBCkTBGlt
+b20xHDAaBgkqhkiG9w0BCQEWDWltb21AaW1vbS5jb22CCQCc2JWp1G6rkTATBgNV
+HSUEDDAKBggrBgEFBQcDAjALBgNVHQ8EBAMCB4AwDQYJKoZIhvcNAQEFBQADgYEA
+1Xn+qZTJX5jXHh3eKqBzHxSbPcFuw6tfQOLtxpsyEnLKv2KHtoCbjMpCi/EkVswB
+gklaajzUAeGWtZFg5hrl58uWb2Zh9n2JV6wfh8hHGDqQCYiyZg1z3FXN7Rf1zqZ8
+RG/+0sHGI99qriw9oMU0W+cEbICAuOxB6V2V6nLQuPg=
+-----END CERTIFICATE-----
